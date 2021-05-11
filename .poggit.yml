@@ -4,6 +4,7 @@ branches:
 - main
 projects:
   YetAnotherWarnPlugin:
+    icon: meta\Warn.PNG
     path: YetAnotherWarnPlugin/
     libs:
       - src: jojoe77777/FormAPI/libFormAPI
