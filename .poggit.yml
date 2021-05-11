@@ -5,4 +5,7 @@ branches:
 projects:
   YetAnotherWarnPlugin:
     path: YetAnotherWarnPlugin/
+    libs:
+      - src: jojoe77777/FormAPI
+        version: ^1.3.0
 ...
