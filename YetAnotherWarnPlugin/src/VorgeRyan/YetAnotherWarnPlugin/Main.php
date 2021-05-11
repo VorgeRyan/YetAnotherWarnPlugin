@@ -6,7 +6,7 @@ namespace VorgeRyan\YetAnotherWarnPlugin;
 
 // re written to be non cancerous by prim
 
-use FormAPI\CustomForm;
+use jojoe77777\FormAPI\CustomForm;
 use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
 use pocketmine\event\Listener;
